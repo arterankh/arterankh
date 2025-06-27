@@ -1,4 +1,5 @@
-- 👋 Hi, I’m arterankh,i began to get insight into programming this year for i changed my major from Japanese to AI
+- 👋 Hi, I’m Arterankh.
+- began to get insight into programming this year for i changed my major from Japanese to AI
 - an absolute noob but long for a skill
 - a touhou fan and toujin music producer
 - happy if someone notices this readme and wish u a happy day!
